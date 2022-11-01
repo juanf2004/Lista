@@ -1,0 +1,19 @@
+Pais=["Japon","España","Portugal","Manila","Milan" ]
+
+print(Pais)
+print(sorted(Pais))
+print(Pais)
+print(sorted(Pais, reverse=True))
+print(Pais)
+
+Pais.reverse()
+print(Pais)
+
+Pais.reverse()
+print(Pais)
+
+Pais.sort()
+print(Pais)
+
+Pais.sort(reverse=True)
+print(Pais)
